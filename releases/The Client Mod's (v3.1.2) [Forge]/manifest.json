@@ -1,0 +1,119 @@
+{
+  "minecraft": {
+    "version": "1.18.1",
+    "modLoaders": [
+      {
+        "id": "forge-39.0.9",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "The Client Mod's 1.18.1 (v3.1.2) [Forge]",
+  "version": "3.1.2",
+  "author": "redtrillix",
+  "files": [
+    {
+      "projectID": 245211,
+      "fileID": 3577512,
+      "required": true
+    },
+    {
+      "projectID": 237307,
+      "fileID": 3559353,
+      "required": true
+    },
+    {
+      "projectID": 266450,
+      "fileID": 3549135,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 3571843,
+      "required": true
+    },
+    {
+      "projectID": 240633,
+      "fileID": 3543137,
+      "required": true
+    },
+    {
+      "projectID": 292992,
+      "fileID": 3549706,
+      "required": true
+    },
+    {
+      "projectID": 241160,
+      "fileID": 3549513,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3549846,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3574133,
+      "required": true
+    },
+    {
+      "projectID": 308653,
+      "fileID": 3555933,
+      "required": true
+    },
+    {
+      "projectID": 368825,
+      "fileID": 3550136,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3562184,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3559639,
+      "required": true
+    },
+    {
+      "projectID": 334853,
+      "fileID": 3558694,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 3568836,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3575636,
+      "required": true
+    },
+    {
+      "projectID": 535489,
+      "fileID": 3558791,
+      "required": true
+    },
+    {
+      "projectID": 297038,
+      "fileID": 3561106,
+      "required": true
+    },
+    {
+      "projectID": 251407,
+      "fileID": 3549494,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 3576615,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
